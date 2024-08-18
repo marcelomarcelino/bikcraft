@@ -1,7 +1,7 @@
 body {
     margin: 0px;
-    font-family: Arial, Helvetica, sans-serif;
     padding-bottom: 600px;
+    color: var(--cor-11);
 }
 
 h1, ul ,p{
@@ -17,8 +17,9 @@ a {
     text-decoration: none;
     color: inherit;
 }
+
 .header-bg {
-    background-color: #000000;
+    background-color: var(--cor-12);
 }
 
 img {
